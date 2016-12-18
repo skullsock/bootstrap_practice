@@ -4,10 +4,22 @@ h1{
   color: blue;
 }
 
+.ul {
+  color: lightblue;
+}
+
 .header {
   padding-top: 20px;
   padding-bottom: 20px;
   background-color: blue;
+}
+
+.navbar-header {
+  background-color: pink;
+}
+
+.nav {
+  background-color: lightblue;
 }
 
 .footer {
