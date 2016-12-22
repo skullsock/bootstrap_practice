@@ -12,9 +12,12 @@ p {
 }
 
 .navbar-header {
-  background-color: pink;
+  background-color: lightgrey;
 }
 
+form {
+  background-color: brown;
+}
 
 .footer {
   padding-top: 2px;
