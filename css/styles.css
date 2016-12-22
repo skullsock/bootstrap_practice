@@ -2,6 +2,7 @@ p {
   color: purple;
   font-family: fantasy;
   text-align: center;
+  padding: 1px 1px 1px 10px;
 }
 
 .header {
@@ -31,9 +32,9 @@ img {
   width: 317px;
   height: 260px;
   box-shadow: 8px 2px 4px #999;
-  margin: 10px 10px 10px -4px;
+  margin: 2px 30px 7px 6px;
 }
 
 h1 {
-
+  font-style: oblique;
 }
